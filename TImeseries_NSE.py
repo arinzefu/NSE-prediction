@@ -270,7 +270,6 @@ plt.title('Actual vs Predicted Test set')
 plt.legend()
 plt.show()
 
-
 # # Save the model
 
 model.save('NSE_model_1.keras')
@@ -365,4 +364,3 @@ plt.legend()
 plt.show()
 
 model_2.save('NSE_model_2.keras')
-
