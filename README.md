@@ -1,4 +1,4 @@
-NSE Stock Price Prediction Project
+Nigerian Stock Exchange Price Prediction Project
 
 This Python script constitutes a comprehensive data analysis and machine learning project centered on historical stock market data from the NSE (Nigerian Stock Exchange). The project encompasses the following stages:
 
